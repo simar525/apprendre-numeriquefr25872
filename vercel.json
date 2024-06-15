@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://moncoachbureautique.fr/$1"
+ }
+  ]
+}
