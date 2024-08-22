@@ -1,5 +1,5 @@
 {
-  "redirects": [{"source": "/https:apprendre-numerique.fr",       "destination": "/https:moncoachbureautique.frexcel-initiation",       "permanent": true     },{"source": "/https:apprendre-numerique.fr",       "destination": "/moncoachbureautique.frexcel-initiation",       "permanent": true     }
+  "redirects": [{"source": "/https:apprendre-numerique.fr",       "destination": "/https:moncoachbureautique.frexcel-initiation",       "permanent": true     },{"source": "/https:apprendre-numerique.fr",       "destination": "/moncoachbureautique.frexcel-initiation",       "permanent": true     },{"source": "https://apprendre-numerique.fr",       "destination": "https://moncoachbureautique.fr",       "permanent": true     }
 ],
   "rewrites": [
     {
